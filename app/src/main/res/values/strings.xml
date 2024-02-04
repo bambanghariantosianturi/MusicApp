@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="secret_key">1ef708ef2a8785ecf65d46495116e059</string>
+    <string name="application_id">665471</string>
+    <string name="application_domain">.musicapp.com</string>
+</resources>
